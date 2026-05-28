@@ -1,5 +1,5 @@
 # Hi there, I'm George Kartavenko 👋
-### Junior Fullstack / Backend / SQL Developer
+### Fullstack / Backend / SQL Developer
 
 Software Engineer with a background in Mathematics and 7 years of industrial engineering experience. I build reliable web applications with clean architecture and optimized databases.
 
