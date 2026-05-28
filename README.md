@@ -30,7 +30,12 @@ Software Engineer with a background in Mathematics and 7 years of industrial eng
 
 ---
 
-### 📈 GitHub Stats
 
-![George's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+### 📈 Coding Metrics & Achievements
+
+- **SQL-EX.ru:** Solved 51 algorithmic database challenges (mastered JOINs, CTEs, and Advanced Window Functions).
+- **Commit Activity:** Actively developing and pushing code to the full-stack `currency-exchange-app` repository.
+- **Engineering Background:** 7 years of continuous industrial experience at Mozyr Oil Refinery (proven track record of high discipline, focus, and responsibility).
+
+---
+
